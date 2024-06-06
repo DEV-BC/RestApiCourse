@@ -1,0 +1,12 @@
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/bin/Debug/net8.0/Movies.Application.deps.json
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/bin/Debug/net8.0/Movies.Application.dll
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/bin/Debug/net8.0/Movies.Application.pdb
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.csproj.AssemblyReference.cache
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.AssemblyInfoInputs.cache
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.AssemblyInfo.cs
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.csproj.CoreCompileInputs.cache
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.dll
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/refint/Movies.Application.dll
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/Movies.Application.pdb
+/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/obj/Debug/net8.0/ref/Movies.Application.dll

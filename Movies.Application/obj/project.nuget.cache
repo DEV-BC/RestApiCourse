@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYeWWfsS5LlYzcAs4UHwtqWznsvINRLr6cpF2FPa+LquJqItZbNg45zvK5leaoHrL4WbO58+QKRUsg51jgsy1g==",
+  "success": true,
+  "projectFilePath": "/Users/brandoncarr/RiderProjects/RestApiCourse/Movies.Application/Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/brandoncarr/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
